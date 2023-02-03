@@ -41,6 +41,7 @@
 <details>
 <summary> File Tree </summary>
 <div markdown="1">
+
 ```txt
 frontend
 ├── node_modules
@@ -54,9 +55,10 @@ frontend
     ├── router
     ├── svgComponents
     └── utils
-'''
+```
 </div>
-</details> 
+</details>
+  
 <hr>
 
 ## AI
