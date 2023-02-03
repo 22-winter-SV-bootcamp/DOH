@@ -56,6 +56,22 @@ frontend
     ├── svgComponents
     └── utils
 ```
+  
+```txt
+backend
+├── ai
+│   ├── ai
+│   └── images
+├── backend
+│   ├── backend
+│   ├── images
+│   └── styles
+├── monitoring
+│   ├── alertmanager
+│   ├── grafana
+│   └── prometheus
+└── nginx
+ ```
 </div>
 </details>
   
