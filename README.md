@@ -37,6 +37,11 @@
 <hr>
 
 ## 📂 file tree (directory structure)
+
+<details>
+<summary> File Tree </summary>
+<div markdown="1">
+```txt
 frontend
 ├── node_modules
 ├── public
@@ -49,10 +54,7 @@ frontend
     ├── router
     ├── svgComponents
     └── utils
-<details>
-<summary> File Tree </summary>
-<div markdown="1">
-여기에 텍스트 파일 자료 넣기
+'''
 </div>
 </details> 
 <hr>
