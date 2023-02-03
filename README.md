@@ -37,7 +37,18 @@
 <hr>
 
 ## 📂 file tree (directory structure)
-저는 프론트 등 파일 일부를 저장 안해둬서 다른 분이 해주실 수 있을까요?~
+frontend
+├── node_modules
+├── public
+│   └── assets
+└── src
+    ├── apis
+    ├── components
+    ├── mocks
+    ├── pages
+    ├── router
+    ├── svgComponents
+    └── utils
 <details>
 <summary> File Tree </summary>
 <div markdown="1">
