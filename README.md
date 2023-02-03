@@ -3,7 +3,17 @@
 </p>
 
 ## System Architecture
-<img src="https://user-images.githubusercontent.com/111681258/216639016-012e680e-3032-4db9-b38e-915fddae777a.png">
+<img src="https://user-images.githubusercontent.com/111681258/216720854-8dcc8575-e02c-4668-8e0a-ae44574b8257.png">
+
+<details>
+<summary>Infra</summary>
+<div markdown="1">
+
+<img src="https://user-images.githubusercontent.com/111681258/216727120-576ea693-727f-4fce-af85-dffbbf6d5c88.png">
+  
+</div>
+</details>
+<hr>
 
 #### 기능 요청사항 
 
@@ -77,9 +87,18 @@ backend
   
 <hr>
 
-## AI
+## 🤖 AI
+- __AI Flow__
+<img src="https://user-images.githubusercontent.com/111681258/216724507-dd206051-b59b-498b-8333-ce8ed3b328b6.png">
 
-## 📈 Monitoring: prometheus & grafana
+- __Asynchronous Processing__
+<img src="https://user-images.githubusercontent.com/111681258/216725345-417685dd-96af-4026-ba0c-c61329acff73.png">
+<img src="https://user-images.githubusercontent.com/111681258/216725638-75504a89-9517-4242-8588-0beaa61c18d2.png">
+     
+
+## 🖥️ Monitoring
+<img src="https://user-images.githubusercontent.com/111681258/216723663-a458c419-1482-4ee5-9502-2c47e272d425.png">
+
 
 ## 👨‍💻 👩‍💻 Member
 |Name|김유림|김정모|구소현|전종훈|정대영|안정민|
