@@ -67,7 +67,7 @@ frontend
 |Name|김유림|김정모|구소현|전종훈|정대영|안정민|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |__role__|Team Leader,</br>Frontend&Backend|Backend|Backend|Frontend|Frontend|Frontend|
-|Github|[@Ellie010707](https://github.com/Ellie010707)|[@alex052525](https://github.com/alex052525)|[@Sohyeon-Koo](https://github.com/Sohyeon-Koo)|[@JunJongHun](https://github.com/JunJongHun)|[@DaeYoungee](https://github.com/DaeYoungee)|[@dengminie](https://github.com/dengminie)|
+|__Github__|[@Ellie010707](https://github.com/Ellie010707)|[@alex052525](https://github.com/alex052525)|[@Sohyeon-Koo](https://github.com/Sohyeon-Koo)|[@JunJongHun](https://github.com/JunJongHun)|[@DaeYoungee](https://github.com/DaeYoungee)|[@dengminie](https://github.com/dengminie)|
 
 
 
