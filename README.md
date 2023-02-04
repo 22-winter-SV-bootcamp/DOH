@@ -2,6 +2,13 @@
   </a>
 </p>
 
+# 🍩 Why Simpsonfilm?
+Have you ever taken 인생네컷 or Polaroid pictures?
+Maybe almost everyone has that experience. 
+We also decided to follow this trend, but we made a funny difference.
+You can change your picture to a Simpson character.
+By changing to Simpson character, you will feel less burdening of exposing yourself and also you can feel fun.
+
 ## System Architecture
 <img src="https://user-images.githubusercontent.com/111681258/216720854-8dcc8575-e02c-4668-8e0a-ae44574b8257.png">
 
