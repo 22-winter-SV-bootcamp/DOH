@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/111681258/216732713-9b182c49-5c51-42db-a5f1-8757fa169c5b.mp4">
 
 - __Full video__
-<img src="https://user-images.githubusercontent.com/111681258/216733600-c8e0818c-43b5-401e-8d75-f30c9df85eb1.mp4">
+<img src="https://user-images.githubusercontent.com/111681258/216737567-83023d76-1f05-4244-9f79-1c4158343ef5.mp4">
 
 <hr>
 
@@ -113,5 +113,6 @@ backend
 ## 👨‍💻 👩‍💻 Member
 |Name|김유림|김정모|구소현|전종훈|정대영|안정민|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|__role__|Team Leader,</br>Frontend&Backend|Backend|Backend|Frontend|Frontend|Frontend|
+|__profile__|<img src="https://user-images.githubusercontent.com/111681258/216737881-cd725dc7-8e7a-4313-b208-0680b53ec526.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739309-c547c1ba-37ab-428b-b6e5-5eb2371c56dc.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739335-26e8beab-2062-41b1-8e7b-88d68e110f36.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739254-f9bdf610-6238-4a00-8f9c-30a6cad40820.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739358-9c9d6208-aba2-468d-a77c-046123ba5e6e.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739372-71cdb509-4ed1-49a7-b1f7-72d9f9dfa094.png" width="130" height="150"/>|
+|__role__|Team Leader,</br>Frontend, </br>Backend, </br>DevOps&Infra, </br>AI|Backend|Backend|Frontend </br>DevOps|Frontend|Frontend|
 |__Github__|[@Ellie010707](https://github.com/Ellie010707)|[@alex052525](https://github.com/alex052525)|[@Sohyeon-Koo](https://github.com/Sohyeon-Koo)|[@JunJongHun](https://github.com/JunJongHun)|[@DaeYoungee](https://github.com/DaeYoungee)|[@dengminie](https://github.com/dengminie)|
