@@ -15,8 +15,6 @@
 </details>
 <hr>
 
-#### 기능 요청사항 
-
 ## 📹 Demo
 - __AI analyzes fashion when uploading photos__
 <img src="https://user-images.githubusercontent.com/111681258/216731600-7ac48afa-bced-4d6f-aeed-459b584d16a5.mp4">
@@ -27,7 +25,7 @@
 - __Full video__
 <img src="https://user-images.githubusercontent.com/111681258/216733600-c8e0818c-43b5-401e-8d75-f30c9df85eb1.mp4">
 
-
+<hr>
 
 ## 📚 Tech Stack
 |Frontend|<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">|
@@ -39,11 +37,11 @@
 |__Monitoring__|<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">|
 |__Others__|<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/zoom-2496ED?style=for-the-badge&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">|
 
-
-## initialization
+<hr>
 
 ## 📖 ERD Diagram
 <img src="https://user-images.githubusercontent.com/111681258/216684272-0af06a08-fa4b-4b52-9fdb-a850396c5bc4.jpg">
+<hr>
 
 ## api 문서
 <details>
@@ -105,10 +103,12 @@ backend
 <img src="https://user-images.githubusercontent.com/111681258/216725345-417685dd-96af-4026-ba0c-c61329acff73.png">
 <img src="https://user-images.githubusercontent.com/111681258/216725638-75504a89-9517-4242-8588-0beaa61c18d2.png">
      
+<hr>
 
 ## 🖥️ Monitoring
 <img src="https://user-images.githubusercontent.com/111681258/216723663-a458c419-1482-4ee5-9502-2c47e272d425.png">
 
+<hr>
 
 ## 👨‍💻 👩‍💻 Member
 |Name|김유림|김정모|구소현|전종훈|정대영|안정민|
