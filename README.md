@@ -17,7 +17,17 @@
 
 #### 기능 요청사항 
 
-## 📹 Demo <-- feature 설명과 함께 하면 어떨지?
+## 📹 Demo
+- __AI analyzes fashion when uploading photos__
+<img src="https://user-images.githubusercontent.com/111681258/216731600-7ac48afa-bced-4d6f-aeed-459b584d16a5.mp4">
+
+- __custom features__
+<img src="https://user-images.githubusercontent.com/111681258/216732713-9b182c49-5c51-42db-a5f1-8757fa169c5b.mp4">
+
+- __Full video__
+<img src="https://user-images.githubusercontent.com/111681258/216733600-c8e0818c-43b5-401e-8d75-f30c9df85eb1.mp4">
+
+
 
 ## 📚 Tech Stack
 |Frontend|<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">|
@@ -105,17 +115,3 @@ backend
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |__role__|Team Leader,</br>Frontend&Backend|Backend|Backend|Frontend|Frontend|Frontend|
 |__Github__|[@Ellie010707](https://github.com/Ellie010707)|[@alex052525](https://github.com/alex052525)|[@Sohyeon-Koo](https://github.com/Sohyeon-Koo)|[@JunJongHun](https://github.com/JunJongHun)|[@DaeYoungee](https://github.com/DaeYoungee)|[@dengminie](https://github.com/dengminie)|
-
-
-
-쓸 내용(순서 무시하고 작성 시 고려하면서 배치하기)
-1. 심슨필름이 무엇인지 간단하게 설명?
-2. feature: 메인페이지, 커스텀페이지, 결과페이지, 랭킹페이지 등
-3. 초기 설정-initialization : front, back, docker, etc
-4. @@ 팀원 목록
-5. @@ directory structure
-6. @@ erd diagram 넣을건지?
-7. @@ 데모영상
-8.@@ 스웨거 캡처본?
-8. ai 구현캡처?
-9. @@ 모니터링
