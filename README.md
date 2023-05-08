@@ -124,5 +124,5 @@ backend
 |__role__|Team Leader,</br>Frontend, </br>Backend, </br>DevOps&Infra, </br>AI|Backend|Backend|Frontend </br>DevOps|Frontend|Frontend|
 |__Github__|[@Ellie010707](https://github.com/Ellie010707)|[@alex052525](https://github.com/alex052525)|[@Sohyeon-Koo](https://github.com/Sohyeon-Koo)|[@JunJongHun](https://github.com/JunJongHun)|[@DaeYoungee](https://github.com/DaeYoungee)|[@dengminie](https://github.com/dengminie)|
 
-**Graphic Resources**
+**Graphic Resources:**
 고다현
