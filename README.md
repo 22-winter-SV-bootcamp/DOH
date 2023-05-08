@@ -123,3 +123,6 @@ backend
 |__profile__|<img src="https://user-images.githubusercontent.com/111681258/216737881-cd725dc7-8e7a-4313-b208-0680b53ec526.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739309-c547c1ba-37ab-428b-b6e5-5eb2371c56dc.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739335-26e8beab-2062-41b1-8e7b-88d68e110f36.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739254-f9bdf610-6238-4a00-8f9c-30a6cad40820.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739358-9c9d6208-aba2-468d-a77c-046123ba5e6e.png" width="130" height="150"/>|<img src="https://user-images.githubusercontent.com/111681258/216739372-71cdb509-4ed1-49a7-b1f7-72d9f9dfa094.png" width="130" height="150"/>|
 |__role__|Team Leader,</br>Frontend, </br>Backend, </br>DevOps&Infra, </br>AI|Backend|Backend|Frontend </br>DevOps|Frontend|Frontend|
 |__Github__|[@Ellie010707](https://github.com/Ellie010707)|[@alex052525](https://github.com/alex052525)|[@Sohyeon-Koo](https://github.com/Sohyeon-Koo)|[@JunJongHun](https://github.com/JunJongHun)|[@DaeYoungee](https://github.com/DaeYoungee)|[@dengminie](https://github.com/dengminie)|
+
+**Graphic Resources**
+고다현
