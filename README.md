@@ -125,4 +125,4 @@ backend
 |__Github__|[@Ellie010707](https://github.com/Ellie010707)|[@alex052525](https://github.com/alex052525)|[@Sohyeon-Koo](https://github.com/Sohyeon-Koo)|[@JunJongHun](https://github.com/JunJongHun)|[@DaeYoungee](https://github.com/DaeYoungee)|[@dengminie](https://github.com/dengminie)|
 
 **Graphic Resources:**
-고다현
+고다현(Dhko2001@gmail.com)
